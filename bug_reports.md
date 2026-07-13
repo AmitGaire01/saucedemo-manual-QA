@@ -18,7 +18,7 @@
 
 **Expected Result:** Each product displays its own distinct, correct image.
 **Actual Result:** Multiple/all products display the same incorrect image (e.g., the same dog photo appears across different items).
-**Screenshot:** *(attach screenshot of products grid here)*
+**Screenshot:** *screenshots/bug001*
 
 ---
 
@@ -32,7 +32,7 @@
 
 **Expected Result:** Products reorder from lowest to highest price.
 **Actual Result:** Order does not change / is incorrect relative to selected sort option.
-**Screenshot:** *(attach screenshot showing unsorted price list)*
+**Screenshot:** *screenshots/bug002*
 
 ---
 
@@ -45,7 +45,7 @@
 
 **Expected Result:** Item is removed, cart badge count decreases.
 **Actual Result:** Button state or cart badge does not update correctly (record exact behavior observed during test run — this can vary by SauceDemo build, so confirm before filing).
-**Screenshot:** *(attach before/after screenshot)*
+**Screenshot:** *screenshots/bug003_1  screenshots/bug003_2*
 
 ---
 
@@ -59,7 +59,7 @@
 
 **Expected Result:** Layout is visually consistent with standard_user experience.
 **Actual Result:** Visual inconsistencies present (e.g., misaligned elements or oversized images — record specifics observed).
-**Screenshot:** *(attach screenshot comparing visual_user vs standard_user view)*
+**Screenshot:** *screenshots/bug004*
 
 ---
 
