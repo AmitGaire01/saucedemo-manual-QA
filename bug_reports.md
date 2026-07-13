@@ -66,14 +66,4 @@
 ## How I found these
 I ran the Module 1 & 2 test cases (see `test_cases.md`) against `problem_user` and `visual_user` instead of `standard_user`, since SauceDemo seeds these accounts with intentional defects for QA practice. Any test case that passed under `standard_user` but failed here was written up as a bug above.
 
-## Reporting template used
-```
-Title: <short, specific summary>
-Severity: <Critical/High/Medium/Low>
-Priority: <P1-P4>
-Environment: <browser, OS>
-Steps to Reproduce: <numbered>
-Expected Result: <what should happen>
-Actual Result: <what actually happened>
-Screenshot/Evidence: <attached>
-```
+
