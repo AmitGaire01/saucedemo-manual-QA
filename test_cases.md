@@ -48,6 +48,4 @@ Legend: **P1** = Critical, **P2** = Major, **P3** = Minor
 
 ---
 
-## Notes
-- Steps marked "verify actual behavior" mean the expected result is what the tester expects logically — the actual system behavior should be recorded during execution, and any mismatch logged as a bug.
-- Executed against `standard_user` unless otherwise noted. Bug-hunting pass (separate doc) uses `problem_user` and `visual_user`.
+
